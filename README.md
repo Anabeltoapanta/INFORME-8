@@ -130,7 +130,13 @@ Que se asemeja mucho al voltaje medido.
 
 **5.VIDEO**
 
+https://youtu.be/3ckObB7_Yo0
+
 **6.CONCLUSIONES**
+
+* Para la utilizacion del osciloscopio se debe tomar en cuenta como funciona cada perilla, estas miden y configuran la onda para que se pudea observar todo el ciclo y asi poder calcular los diferentes datos mostrados en la pantalla
+
+* Los voltajes medidos en el osciloscopio no van a ser iguales a los voltajes que mida el multimetro debido a que el multimetro mide los voltajes rms y el osciloscopio mide los voltajes pico o voltajes pico a pico de la onda esto se puede asemejar utilizando una formula especifica para calcular el voltaje rms.
 
 **7.BIBLIOGRAFÍA**
 
