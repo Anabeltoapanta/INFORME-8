@@ -140,5 +140,7 @@ https://youtu.be/3ckObB7_Yo0
 
 **7.BIBLIOGRAFÍA**
 
-Fraile Mora, Jesús. Electromagnetismo y Circuitos Eléctricos. Mc. Graw Hill
+Fraile Mora, Jesús. Electromagnetismo y Circuitos Eléctricos. Mc. Graw Hill.
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
 
