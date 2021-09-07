@@ -32,6 +32,12 @@ Objetivo General
 
 Objetivos Específicos
 
+Analizar gráficamente los voltajes pico, voltajes pico-pico obtenidos mediante el circuito propuesto.
+
+Estimar analíticamente la amplitud, el periodo y la frecuencia, con las configuraciones del osciloscopio.
+
+Identificar las divisiones de voltaje y las divisiones de tiempo en la onda obtenida del circuito.
+
 
 **2.MARCO TEÓRICO**
 
