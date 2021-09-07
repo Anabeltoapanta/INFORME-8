@@ -35,7 +35,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-  
+![](https://github.com/Anabeltoapanta/INFORME-LABORATORIO8/blob/main/MARCO%20TEORICO%20LABORATORIO%208-convertido_page-0001.jpg)  
  
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
