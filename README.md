@@ -1,5 +1,6 @@
 # INFORME-8
 
+</div>
 
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
@@ -25,7 +26,10 @@ Ing. Darwin Omar Alulema Flores
 
 **1.OBJETIVOS**
 
+Objetivo General
 
+
+Objetivos Específicos
 
 
 
