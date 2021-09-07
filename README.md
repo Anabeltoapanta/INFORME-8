@@ -113,7 +113,7 @@ Para la Frecuencia Angular tenemos:
 
 ![image](https://user-images.githubusercontent.com/85134094/132284137-61aa1054-f584-4e98-9157-fd73825ad996.png)
 
-**4.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+**4.5.7. Con el multímetro digital mida el voltaje de salida en RL:**
 
 ![image](https://user-images.githubusercontent.com/85134094/132284158-de516378-b413-46ef-87e3-59ac6ad37517.png)
 
