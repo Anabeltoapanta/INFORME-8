@@ -35,12 +35,9 @@ Objetivos Específicos
 * Conocer las características principales de las ondas senoidales.
 * Analizar graficamente las ondas senoidales
 * Conocer conceptos de valor pico,valor pico-pico,frecuencia,periodo entre otros.
-
-Analizar gráficamente los voltajes pico, voltajes pico-pico obtenidos mediante el circuito propuesto.
-
-Estimar analíticamente la amplitud, el periodo y la frecuencia, con las configuraciones del osciloscopio.
-
-Identificar las divisiones de voltaje y las divisiones de tiempo en la onda obtenida del circuito.
+* Analizar gráficamente los voltajes pico, voltajes pico-pico obtenidos mediante el circuito propuesto.
+* Estimar analíticamente la amplitud, el periodo y la frecuencia, con las configuraciones del osciloscopio.
+* Identificar las divisiones de voltaje y las divisiones de tiempo en la onda obtenida del circuito.
 
 
 **2.MARCO TEÓRICO**
