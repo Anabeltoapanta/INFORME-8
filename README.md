@@ -140,3 +140,5 @@ https://youtu.be/3ckObB7_Yo0
 
 **7.BIBLIOGRAFÍA**
 
+Fraile Mora, Jesús. Electromagnetismo y Circuitos Eléctricos. Mc. Graw Hill
+
