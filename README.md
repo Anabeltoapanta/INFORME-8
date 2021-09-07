@@ -28,7 +28,7 @@ Ing. Darwin Omar Alulema Flores
 
 Objetivo General
 
-*Determinar experimentalmente las características de señales senoidales y su comportamiento.
+* Determinar experimentalmente las características de señales senoidales y su comportamiento.
 
 Objetivos Específicos
 
